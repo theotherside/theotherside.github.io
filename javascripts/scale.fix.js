@@ -17,4 +17,11 @@ fixScale = function(doc) {
 		doc[addEvent](type, fix, true);
 	}
 
+	        
+    function sayHello(textToAlert) {
+        alert("My name is " + textToAlert)
+    }
+        sayHello ("Luke Monson");
+        
+
 };
